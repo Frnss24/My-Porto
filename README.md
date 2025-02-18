@@ -4,7 +4,7 @@
 
 Welcome to my personal portfolio website! This portfolio showcases my skills, projects, and experience as a **Frontend Developer**. Built with **Next.js, Tailwind CSS, and JavaScript**, it provides an interactive and responsive experience.  
 
-🔗 **Live Portfolio:** [cwp-portfolio.netlify.app](https://cwp-portfolio.netlify.app/)  
+🔗 **Live Portfolio:** (https://frnss24.github.io/My-Porto/)  
 
 ---
 
